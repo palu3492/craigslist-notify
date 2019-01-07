@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0467f9be-2894-4e2c-972e-a9e9b29601dc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/nodejs-docs-samples/appengine/hello-world/flexible/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nodejs-docs-samples/appengine/hello-world/flexible/package.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nodejs-docs-samples" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/hello-world/flexible/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/analytics/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/building-an-app/build/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/building-an-app/update/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/cloudsql/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/cloudsql_postgresql/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/cloudtasks/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/datastore/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/endpoints/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/errorreporting/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/grunt/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/headless-chrome/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/hello-world/flexible/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/hello-world/standard/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/loopback/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/mailjet/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/memcached/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/metadata/flexible/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/metadata/standard/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/parse-server/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/pubsub/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/redis/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/sendgrid/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/static-files/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/storage/flexible/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/storage/standard/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/appengine/twilio/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/auth/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/cloudtasks/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/containerengine/hello-world/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/debugger/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/endpoints/getting-started-grpc/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/endpoints/getting-started/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/error-reporting/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/background/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/concepts/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/datastore/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/errorreporting/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/gcs/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/helloworld/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/http/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/imagemagick/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/log/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/node8/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/ocr/app/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/pubsub/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/sendgrid/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/slack/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/spanner/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/tips/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/functions/uuid/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/iot/http_example/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/iot/manager/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/iot/mqtt_example/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/iot/scripts/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/jobs/cjd_sample/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/kms/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/language/slackbot/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/memorystore/redis/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/storage-transfer/package.json" />
+      <path value="$PROJECT_DIR$/nodejs-docs-samples/trace/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cloud nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud nodejs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0467f9be-2894-4e2c-972e-a9e9b29601dc" name="Default" comment="" />
+      <created>1532819593280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532819593280</updated>
+      <workItem from="1532819594486" duration="1259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1259000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1047" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947807" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32942432" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

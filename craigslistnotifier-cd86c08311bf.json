@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "craigslistnotifier-1",
+  "private_key_id": "cd86c08311bf55d426d20b75f6288526ae421957",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFvVqCrw0ENDua\nq7lOf6/t2PPpnKatcRO5y79oMam6bjlYvLWONqXRB0s4SHnld0s2oOZGsltQa/of\n8jZL5B73pt+tkK79H/WevDFiymNJIuvukzc4dF4R7hMtsQtUVs3IlvNpRrmsVasi\nVKK6QDat5xmM1SgJbABhZ0wQH+kbpphBEw7BXSlybBL59hpDA3EXD61BkLd7oIH6\nsRSky3m5zigV0gZB8uqiYtuhvCqBQrLyTulgBJHDHB99jWCI8gkfL0C3VSznhpkP\nvClugvALIeCzztGYGbG9Nxwmh3QiWaDRE/57Y1f3apKSQjtTImxxg8cShj411D89\nbC4t6HfbAgMBAAECggEAByh/NITHEvYbxAr1KXT7MzHoRhLqHNt02K7E2p/cSYRS\nMOic0QoEEVUTJq5x3sSsjFsMF3MUjrdoKwjG90vmVqRL1mLgOetZ0OYg7jcKuC+B\nqvW85ZD0aJqk1U/wwQ28RxzhlK0p3xepDPfFKLqsI52z2NuFpp/jJzG+GPA5dIQQ\nW8RxN/UJhhDeD5chRqd3ssOEx3AlzCP5wgqauYeal8SoDVGAjVfIQwgJshaEF++w\njnMHIqhvFEKVm9fkvy1xbNznwgY1dErlhlw38mlzp6ESE6XvK3rpYkVkbVs15lnw\nG7qzuao3Hxe5FPg5myHneu7PesQi2zf55li2WNdeQQKBgQD1qIX1ufSBdgYoYT5J\n93JClHBkFhc9jSR0pp64IvizlQQDNBNcX7OfV1FLRejjO++rmCPVzMat9GqjMscr\ne2f3nNpIiDYjB57PHGRHpuQzXYJrsNcZON8IF13dK0ucg8ajet5V4PgawSSWavqh\nasfd/zQbN16pCDcgr49ek/Ar/QKBgQDOEGhmPwlY//oLitNYEE6Bhk216Ef+gSQJ\nOeU+/5sU3NZw03o3rStpAuhKHE5X1uZ+lbqivWU4SFPEA9/AzpLsbbLBoJ4WdRzs\nDpZQbEDBjJjxSgpPxEq7N3xAgdfViFbTGP/olmu60RxWq+LydaScBjTXnZHsJdOf\ndFrRWiT+twKBgQDhADvCN1Hlia5WKcsdgFDc/ox6f2lF7RKo7TuOuClGgoQsUvQw\ntU8V8Kn64ctO5cS9TBn2ZxrKlYVeeNHH174AI2Ai8u9y4jXoyL5oikmVal5cOJqq\n9VYCWTSVsGQOtPupHI6r5eQYzTKvushYNC9f+7FEBFDlTSsA+wu7upBOGQKBgEq5\n3IInneYufait4VJwJ2gFIi0zXNhIUJ8f5ahg3QZFx2YG6q1CGRntufsWJLrp7ZA+\nD/5wHEK6x9WvafbrcpBWf5qD+pA+TAy2hYAIobsOl2/436BpmIgn6OEjtPd0h7fp\nuvPHiK2oo1Qy5Qvz6YvDHGqMc5xlY0bR1RVSUVQlAoGAKUPx60vJBNotz4WEtsh/\ntg1i5CrhyKpw0lu61MDNh/9a8lP3eOLevQKm53mcnY1M0PiEyJ3JwFcykuFJN9+g\ndawuq+Y8w/ysG/1taYdySJ3wOjcfuVpGusTrO9n5Rwzhp+zsrTCDTnFa2epJrKGj\niM6z5iEV/FeIVQAq5Sxs5nY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "craigslistnotifier@craigslistnotifier-1.iam.gserviceaccount.com",
+  "client_id": "103843379707858375455",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/craigslistnotifier%40craigslistnotifier-1.iam.gserviceaccount.com"
+}

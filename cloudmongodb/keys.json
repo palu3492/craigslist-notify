@@ -1,0 +1,7 @@
+{
+  "mongoHost": "craigslistnotifier-shard-0/craigslistnotifier-shard-00-00-zvyil.gcp.mongodb.net",
+  "mongoPort": "27017",
+  "mongoDatabase": "craigslistnotifier",
+  "mongoUser": "alex",
+  "mongoPass": ""
+}

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cragislist Notifier</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
+    <script src="test.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="test.css"/>
+</head>
+
+<body>
+    <div>
+        <label>Search Options</label>
+        <hr/>
+        <input type="text" id="search_query" name="search_query" placeholder="Search Craigslist"/>
+        |
+        <select id="states" name="states">
+            <option>Alabama</option>
+            <option>Alaska</option>
+            <option>Arizona</option>
+            <option>Arkansas</option>
+            <option>California</option>
+            <option>Colorado</option>
+            <option>Connecticut</option>
+            <option>Delaware</option>
+            <option>Florida</option>
+            <option>Georgia</option>
+            <option>Hawaii</option>
+            <option>Idaho</option>
+            <option>Illinois</option>
+            <option>Indiana</option>
+            <option>Iowa</option>
+            <option>Kansas</option>
+            <option>Kentucky</option>
+            <option>Louisiana</option>
+            <option>Maine</option>
+            <option>Maryland</option>
+            <option>Massachusetts</option>
+            <option>Michigan</option>
+            <option selected>Minnesota</option>
+            <option>Mississippi</option>
+            <option>Missouri</option>
+            <option>Montana</option>
+            <option>Nebraska</option>
+            <option>Nevada</option>
+            <option>New Hampshire</option>
+            <option>Maryland</option>
+            <option>New Jersey</option>
+            <option>New Mexico</option>
+            <option>New York</option>
+            <option>North Carolina</option>
+            <option>North Dakota</option>
+            <option>Ohio</option>
+            <option>Oklahoma</option>
+            <option>Oregon</option>
+            <option>Pennsylvania</option>
+            <option>Rhode Island</option>
+            <option>South Carolina</option>
+            <option>South Dakota</option>
+            <option>Tennessee</option>
+            <option>Texas</option>
+            <option>Utah</option>
+            <option>Vermont</option>
+            <option>Virginia</option>
+            <option>Washington</option>
+            <option>West Virginia</option>
+            <option>Wisconsin</option>
+            <option>Wyoming</option>
+
+
+        </select>
+        <select id="cities" name="cities">
+        </select>
+        |
+        <select id="categories" name="categories">
+            <option selected>for sale</option>
+            <option>community</option>
+            <option>events</option>
+            <option>gigs</option>
+            <option>housing</option>
+            <option>jobs</option>
+            <option>resumes</option>
+            <option>services</option>
+        </select>
+        <select id="sub_categories" class="sub_categories">
+        </select>
+    </div>
+    <br/>
+    <div>
+        <label>Filters</label>
+        <hr/>
+        <ul id="filters1">
+            <li>
+                <label>
+                    <input type="checkbox" name="srchType" value="1">
+                    search titles only
+                </label>
+            </li>
+            <li>
+                <label>
+                    <input type="checkbox" name="hasPic" value="1">
+                    has image
+                </label>
+            </li>
+            <li>
+                <label>
+                    <input type="checkbox" name="postedToday" value="1">
+                    posted today
+                </label>
+            </li>
+            <li>
+                <label>
+                    <input type="checkbox" name="bundleDuplicates" value="1">
+                    bundle duplicates
+                </label>
+            </li>
+            <li>
+                <label>
+                    <input type="checkbox" name="searchNearby" value="1">
+                    include nearby areas
+                </label>
+            </li>
+        </ul>
+    </div>
+    <br/>
+    <br/>
+    <label>Craigslist url:</label>
+    <br/>
+    <a id="url1" target="_blank">
+        <label id="url2"></label>
+    </a>
+</body>
+</html>
